@@ -1,0 +1,1 @@
+// This file is intentionally left blank. The entire application has been consolidated into index.html for easy sharing.

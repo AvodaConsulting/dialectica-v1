@@ -1,0 +1,5 @@
+{
+  "name": "Dialectica: DASearch engine",
+  "description": "An AI-powered tool that analyzes academic literature to uncover disagreements, points of contention, and identify resulting research gaps. Moves beyond consensus-finding to highlight the debates that drive research forward.",
+  "requestFramePermissions": []
+}
